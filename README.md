@@ -1,2 +1,2 @@
 # clarusway
-course
+bootcamp
